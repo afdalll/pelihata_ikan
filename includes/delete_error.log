@@ -1,0 +1,46 @@
+[2024-09-01 02:52:05] Delete attempt: Table: data_kolam, ID: KOL001, Result: Success
+[2024-09-01 03:02:59] Invalid table name: null
+[2024-09-01 03:02:59] Delete attempt: Table: null, ID: null, Result: Fail
+[2024-09-01 03:03:22] Delete attempt: Table: data_kolam, ID: KOL001, Result: Success
+[2024-09-01 03:07:58] Delete attempt: Table: data_ikan, ID: IKN001, Result: Success
+[2024-09-01 03:08:55] Delete attempt: Table: tebar_bibit, ID: TBR001, Result: Success
+[2024-09-01 03:11:58] Delete attempt: Table: biaya_pakan, ID: BP001, Result: Success
+[2024-09-01 03:21:44] Delete attempt: Table: biaya_pendukung, ID: BPG001, Result: Success
+[2024-09-01 03:27:37] Delete attempt: Table: pemeliharaan_ikan, ID: PMI001, Result: Success
+[2024-09-01 03:32:09] Delete attempt: Table: pemeliharaan_ikan, ID: PMI001, Result: Success
+[2024-09-01 03:46:36] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-01 03:46:57] Delete attempt: Table: pemeliharaan_ikan, ID: PMI001, Result: Success
+[2024-09-01 03:47:43] Delete attempt: Table: data_ikan, ID: IKN001, Result: Success
+[2024-09-01 12:46:53] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-12 10:11:57] Invalid table name: user
+[2024-09-12 10:11:57] Delete attempt: Table: user, ID: 5, Result: Fail
+[2024-09-12 10:12:43] Invalid table name: user
+[2024-09-12 10:12:43] Delete attempt: Table: user, ID: 5, Result: Fail
+[2024-09-13 07:34:53] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 07:35:31] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 07:38:17] Delete attempt: Table: panen, ID: PN002, Result: Success
+[2024-09-13 07:39:27] Delete attempt: Table: panen, ID: PN003, Result: Success
+[2024-09-13 07:39:30] Delete attempt: Table: panen, ID: PN002, Result: Success
+[2024-09-13 08:04:22] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:05:15] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:06:51] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:13:05] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:14:33] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:17:14] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:20:00] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:30:04] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:35:24] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:38:00] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:44:30] Invalid delete_id or user_id
+[2024-09-13 08:44:30] Delete attempt: Table: panen, ID: PN001, Result: Fail
+[2024-09-13 08:44:32] Invalid delete_id or user_id
+[2024-09-13 08:44:32] Delete attempt: Table: panen, ID: PN001, Result: Fail
+[2024-09-13 08:44:44] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:49:07] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 08:49:08] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 15:02:02] Delete attempt: Table: panen, ID: PN001, Result: Success
+[2024-09-13 15:02:41] Delete attempt: Table: data_kolam, ID: KOL001, Result: Success
+[2024-09-13 15:22:12] Delete attempt: Table: user, ID: 6, Result: Success
+[2024-09-13 21:33:16] Delete attempt: Table: user, ID: 9, Result: Success
+[2024-11-26 03:17:45] Delete attempt: Table: data_kolam, ID: KOL001, Result: Success
+[2024-11-26 04:48:50] Delete attempt: Table: biaya_pakan, ID: BP001, Result: Success

@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    height: 50px;
+    width: 50px; /* Tambahkan ini untuk memastikan logo berbentuk persegi */
+    object-fit: cover; /* Ini akan memastikan gambar mengisi area dengan baik */
+    border-radius: 50%; /* Ini akan membuat gambar menjadi bulat */
+    object-position: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1em;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+header nav ul li a.login-button {
+    background-color: #4CAF50;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 2em;
+}
+
+main .content {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 2em;
+    border-radius: 10px;
+    border: 2px solid white; /* Border */
+    max-width: 600px; /* Adjusted max-width */
+    width: 100%;
+}
+
+main h2 {
+    font-size: 2em;
+    margin-top: 1em;
+}
+
+main p {
+    font-size: 1em;
+    margin: 1em 0;
+}
+
+main .login-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block; /* Tambahkan ini */
+    margin-top: 20px; /* Tambahkan ini untuk memberi jarak */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* CSS untuk halaman login dan registrasi */
+.login-registration-page {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    padding: 2em;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+}
+
+.login-registration-page h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: #333; /* Dark text color */
+}
+
+.login-registration-page form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-registration-page label {
+    margin-bottom: 0.5em;
+    color: #333; /* Dark text color */
+}
+
+.login-registration-page input[type="text"],
+.login-registration-page input[type="password"] {
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.login-registration-page button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.login-registration-page button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.login-registration-page p {
+    margin-top: 1em;
+    color: #333; /* Dark text color */
+}
+
+.login-registration-page a {
+    color: #4CAF50; /* Green link color */
+    text-decoration: none;
+}
+
+.login-registration-page a:hover {
+    text-decoration: underline;
+}
+
